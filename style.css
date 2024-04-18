@@ -1,0 +1,33 @@
+
+* {   
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.extraMargin {
+   margin-top: 5vh;
+  }
+
+.imgIcon {
+    width: 100px;
+    height: 90%;
+  }
+
+.hero-section {
+    background-image: url("./media/antichi_sapori_di_sicilia_pasta_con_bottarga_di_tonno_e_curcuma.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+.custom-h1 {
+    letter-spacing: 10px;
+    font-size: 70px;
+  }
+
+.perfect-centering {
+  padding-right: 260px;
+  }
+ 
